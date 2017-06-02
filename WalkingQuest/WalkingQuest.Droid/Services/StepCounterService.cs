@@ -27,6 +27,7 @@ namespace WalkingQuest.Droid {
                     return;
 
                 numberOfSteps = value;
+                // change the property that is being observed 
                 OnPropertyChanged("NumberOfSteps");
             }
         }
@@ -87,9 +88,11 @@ namespace WalkingQuest.Droid {
         {
             // throw new NotImplementedException();
             Log.Debug("", "step counted " + numberOfSteps + 1);
+            // change the value of the property being observed
             NumberOfSteps++;
         }
 
+        // send a responce back to the handler in the main activity
         private void OnPropertyChanged(string name)
         {
             if (PropertyChanged == null)

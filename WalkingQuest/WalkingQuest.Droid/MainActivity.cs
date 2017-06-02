@@ -190,6 +190,8 @@ namespace WalkingQuest.Droid
             base.OnWindowFocusChanged(hasFocus);
         }
 
+        // Handler for when the feature NumberOfSteps (found in the StepCounterService class) has been modified
+        // functions as a callback
         public void HandlePropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
             if (e.PropertyName != "NumberOfSteps")
@@ -201,6 +203,8 @@ namespace WalkingQuest.Droid
 
         }
 
+        
+        // Update the number of steps detected in the game
         protected void UpdateStepCount()
         {
 
