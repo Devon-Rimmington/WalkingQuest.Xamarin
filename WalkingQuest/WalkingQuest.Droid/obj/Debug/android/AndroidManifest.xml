@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="WalkingQuest.Droid.WalkingQuest.Droid" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="WalkingQuest.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="WalkingQuest.Droid" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name="md5b47d4963dd2b5cf2efd3b29d74a9fefa.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:enabled="true" android:name="md5b47d4963dd2b5cf2efd3b29d74a9fefa.StepCounterService">
+      <intent-filter>
+        <action android:name="com.WalkingQuest.Services.StepService" />
+      </intent-filter>
+    </service>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="WalkingQuest.Droid.WalkingQuest.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.WalkingQuest.Droid.WalkingQuest.Droid" />
+      </intent-filter>
+    </receiver>
+    <activity android:name="org.libsdl.app.UrhoActivity" android:configChanges="keyboardHidden|orientation" android:label="UrhoSharp activity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
+    <activity android:name="org.libsdl.app.UrhoActivity" android:configChanges="keyboardHidden|orientation" android:label="UrhoSharp activity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
+  </application>
+</manifest>

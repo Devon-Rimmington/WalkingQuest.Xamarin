@@ -1,0 +1,7 @@
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\bin\Debug\WalkingQuest.dll
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\bin\Debug\WalkingQuest.pdb
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\bin\Debug\Urho.dll
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\bin\Debug\Urho.xml
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.csprojResolveAssemblyReference.cache
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.dll
+C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.pdb
