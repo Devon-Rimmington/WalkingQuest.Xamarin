@@ -1,20 +1,20 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Urho;
 using Urho.Gui;
 using Urho.Actions;
-using Urho.Shapes;
-using WalkingQuest;
+using WalkingQuest.GUI;
 
 namespace WalkingQuest
 {
     public class MyGame : Application
     {
 
-        private Text helloText;
+        // GUI elements
+        private Window window;
+        private Button signInButton;
+        private TextEdit username, password;
+
 
         [Preserve]
         public MyGame(ApplicationOptions opts) : base(opts) { }
@@ -41,6 +41,7 @@ namespace WalkingQuest
 
         async void CreateScene()
         {
+            /*
             // UI text 
             helloText = new Text(Context);
             helloText.Value = "Hello World from UrhoSharp";
@@ -49,6 +50,11 @@ namespace WalkingQuest
             helloText.SetColor(new Color(r: 0f, g: 1f, b: 1f));
             helloText.SetFont(font: ResourceCache.GetFont("Fonts/Font.ttf"), size: 30);
             UI.Root.AddChild(helloText);
+            */
+
+
+            // create the UI object for the sign-in process
+            InitGUI();
 
             // 3D scene with Octree
             var scene = new Scene(Context);
@@ -83,9 +89,76 @@ namespace WalkingQuest
                 new RotateBy(duration: 1, deltaAngleX: 90, deltaAngleY: 0, deltaAngleZ: 0)));
         }
 
+        public void InitGUI()
+        {
+            window = new Window(Context);
+            window.SetMinSize(384, 192);
+            window.SetAlignment(HorizontalAlignment.Center, VerticalAlignment.Top);
+            window.SetLayout(LayoutMode.Vertical, 100, new IntRect(6, 6, 6, 6));
+            UI.Root.AddChild(window);
+
+            // first box is the username/password input
+            
+            username = new TextEdit(Context,this);
+            username.Text = "username...";
+            username.Update(100);
+            username.MinHeight = 100;
+            username.SetColor(new Color(1f, 1f, 0f));
+            window.AddChild(username);
+            
+
+            
+
+            // todo: remove this
+            
+            Action<Urho.Gui.TextChangedEventArgs> textChangedAction = (e) => SignedIn();
+            username.TextChanged += (textChangedAction);
+
+
+            password = new TextEdit(Context, this);
+            password.Text = "password...";
+            password.MinHeight = 100;
+            password.SetColor(new Color(1f, 0f, 1f));
+            window.AddChild(password);
+
+
+            // reigister the action that the button will perform after the click
+            Action<Urho.Gui.PressedEventArgs> signInAction = (e) => SignedIn();
+
+            signInButton = new Button(Context);
+            signInButton.Pressed += (signInAction);
+
+            // signInButton.SetPosition(10, 10);
+            signInButton.SetFixedSize(300, 135);
+            signInButton.SetColor(new Color(0f, 1f, 1f));
+
+            Text buttonText = new Text();
+            buttonText.Value = "Signin";
+            buttonText.SetFont(ResourceCache.GetFont("Fonts/Font.ttf"), size: 30);
+            buttonText.SetAlignment(HorizontalAlignment.Center, VerticalAlignment.Center);
+            signInButton.AddChild(buttonText);
+
+            username.SetStyleAuto(null);
+            password.SetStyleAuto(null);
+            signInButton.SetStyleAuto(null);
+
+            window.AddChild(signInButton);
+        }
+
+        private void Username_TextChanged(TextChangedEventArgs obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool SignedIn()
+        {
+            Debug.WriteLine(username.Text.ToString());
+            return false;
+        }
+
         public void UpdateStepCount(Int64 count)
         {
-            helloText.Value = count + "";
+            // helloText.Value = count + "";
         }
 
     }

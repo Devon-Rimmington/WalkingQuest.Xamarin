@@ -18,3 +18,23 @@ C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\W
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.dll.mdb
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.dll.mdb
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.Droid.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.WalkingQuest.Droid.apk
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.WalkingQuest.Droid-Signed.apk
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Urho.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Urho.Droid.SdlBinding.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Urho.xml
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\WalkingQuest.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\WalkingQuest.Droid.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\WalkingQuest.Droid.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\bin\WalkingQuest.Droid.WalkingQuest.Droid.apk
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\R.cs.flag
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\uploadflags.txt
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.Droid.dll.mdb

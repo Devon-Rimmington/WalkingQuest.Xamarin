@@ -29,7 +29,6 @@ namespace WalkingQuest.Droid
 
         private Handler handler;
         
-
         public ServiceBinder Binder
         {
             get { return binder; }
