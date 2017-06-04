@@ -99,15 +99,14 @@ namespace WalkingQuest
 
             // first box is the username/password input
             
-            username = new TextEdit(Context,this);
+            username = new TextEdit(Context, this);
             username.Text = "username...";
-            username.Update(100);
+			// username.MaxWidth = 100;
+			username.SetAlignment(HorizontalAlignment.Center, VerticalAlignment.Top);
             username.MinHeight = 100;
             username.SetColor(new Color(1f, 1f, 0f));
             window.AddChild(username);
-            
-
-            
+                        
 
             // todo: remove this
             
