@@ -14,3 +14,7 @@ WalkingQuest.Droid.StepCounterService, WalkingQuest.Droid;md5b47d4963dd2b5cf2efd
 WalkingQuest.Droid.StepCounterService, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b47d4963dd2b5cf2efd3b29d74a9fefa.StepCounterService
 WalkingQuest.Droid.StepCounterService;md5b47d4963dd2b5cf2efd3b29d74a9fefa.StepCounterService
 walkingquest.droid.StepCounterService;md5b47d4963dd2b5cf2efd3b29d74a9fefa.StepCounterService
+Urho.Droid.UrhoSurfacePlaceholder, Urho;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder, Urho, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+urho.droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder

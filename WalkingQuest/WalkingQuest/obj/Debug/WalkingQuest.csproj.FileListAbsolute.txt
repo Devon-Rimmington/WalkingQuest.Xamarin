@@ -9,7 +9,6 @@ C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\b
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\bin\Debug\WalkingQuest.pdb
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\bin\Debug\Urho.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\bin\Debug\Urho.xml
-C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.csprojResolveAssemblyReference.cache
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\obj\Debug\WalkingQuest.pdb
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest\bin\Debug\SQLite.Net.dll

@@ -17,3 +17,25 @@ C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\W
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.csprojResolveAssemblyReference.cache
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.exe
 C:\Users\Devon\Documents\Visual Studio 2017\Projects\WalkingQuest\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Data\Fonts\Font.ttf
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Data\Models\Box.mdl
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Data\Models\Sphere.mdl
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Data\Materials\BoxMaterial.xml
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Data\Textures\xamarin.png
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\libmono-urho.dylib
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\mono-urho.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\mono-urho_32bit.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\CoreData.pak
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\WalkingQuest.Desktop.exe.config
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\WalkingQuest.Desktop.exe
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\WalkingQuest.Desktop.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\SQLite.Net.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Urho.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\WalkingQuest.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\WalkingQuest.pdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\bin\Debug\Urho.xml
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.exe
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Desktop\obj\Debug\WalkingQuest.Desktop.pdb
