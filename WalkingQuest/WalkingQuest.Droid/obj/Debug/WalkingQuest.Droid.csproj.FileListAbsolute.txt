@@ -38,3 +38,15 @@ C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.D
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\WalkingQuest.Droid.dll.mdb
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.dll.mdb
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.Droid.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Xamarin.Auth.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Xamarin.Auth.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

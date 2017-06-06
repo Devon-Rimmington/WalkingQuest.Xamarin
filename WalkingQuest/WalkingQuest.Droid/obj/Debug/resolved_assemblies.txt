@@ -6,6 +6,8 @@ C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.D
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Xml.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\SQLite.Net.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Urho.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Urho.Droid.SdlBinding.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\WalkingQuest.dll
@@ -24,5 +26,8 @@ C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.D
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\Mono.Security.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\Devon\Documents\GitHub\WalkingQuest.Xamarin\WalkingQuest\WalkingQuest.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll

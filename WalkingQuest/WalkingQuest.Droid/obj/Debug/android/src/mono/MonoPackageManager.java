@@ -99,6 +99,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "WalkingQuest.Droid.dll" comes first in this list. */
 		"WalkingQuest.Droid.dll",
+		"SQLite.Net.dll",
+		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"Urho.dll",
 		"Urho.Droid.SdlBinding.dll",
 		"WalkingQuest.dll",
