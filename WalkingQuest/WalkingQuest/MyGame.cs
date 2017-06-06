@@ -41,17 +41,6 @@ namespace WalkingQuest
 
         async void CreateScene()
         {
-            /*
-            // UI text 
-            helloText = new Text(Context);
-            helloText.Value = "Hello World from UrhoSharp";
-            helloText.HorizontalAlignment = HorizontalAlignment.Center;
-            helloText.VerticalAlignment = VerticalAlignment.Top;
-            helloText.SetColor(new Color(r: 0f, g: 1f, b: 1f));
-            helloText.SetFont(font: ResourceCache.GetFont("Fonts/Font.ttf"), size: 30);
-            UI.Root.AddChild(helloText);
-            */
-
 
             // create the UI object for the sign-in process
             InitGUI();
@@ -61,14 +50,20 @@ namespace WalkingQuest
             scene.CreateComponent<Octree>();
 
             // Box	
-            Node boxNode = scene.CreateChild(name: "Box node");
-            boxNode.Position = new Vector3(x: 0, y: 0, z: 5);
-            boxNode.SetScale(0f);
-            boxNode.Rotation = new Quaternion(x: 60, y: 0, z: 30);
+            Node[] boxNode = { scene.CreateChild(name: "Box1"), scene.CreateChild(name: "Box2"),
+				scene.CreateChild(name: "Box3"), scene.CreateChild(name: "Box4"), scene.CreateChild(name: "Box5"), scene.CreateChild(name: "Box6"),
+				scene.CreateChild(name: "Box7"), scene.CreateChild(name: "Box8"), scene.CreateChild(name: "Box9"), scene.CreateChild(name: "Box10")};
 
-            StaticModel boxModel = boxNode.CreateComponent<StaticModel>();
-            boxModel.Model = ResourceCache.GetModel("Models/Box.mdl");
-            boxModel.SetMaterial(ResourceCache.GetMaterial("Materials/BoxMaterial.xml"));
+			for (int i = 0; i < boxNode.Length; i++)
+			{
+				boxNode[i].Position = new Vector3(x: i - 3, y: 0, z: 5);
+				boxNode[i].SetScale(0f);
+				boxNode[i].Rotation = new Quaternion(x: 60, y: 0, z: 30);
+
+				StaticModel boxModel = boxNode[i].CreateComponent<StaticModel>();
+				boxModel.Model = ResourceCache.GetModel("Models/Box.mdl");
+				boxModel.SetMaterial(ResourceCache.GetMaterial("Materials/BoxMaterial.xml"));
+			}
 
             // Light
             Node lightNode = scene.CreateChild(name: "light");
@@ -83,11 +78,19 @@ namespace WalkingQuest
             // Viewport
             Renderer.SetViewport(0, new Viewport(Context, scene, camera, null));
 
-            // Do actions
-            await boxNode.RunActionsAsync(new EaseBounceOut(new ScaleTo(duration: 1f, scale: 1)));
-            await boxNode.RunActionsAsync(new RepeatForever(
-                new RotateBy(duration: 1, deltaAngleX: 90, deltaAngleY: 0, deltaAngleZ: 0)));
-        }
+			for (int i = 0; i < boxNode.Length; i++)
+			{
+				AnimateBox(boxNode[i]);
+			}
+
+		}
+
+		private async void AnimateBox(Node boxNode)
+		{
+			await boxNode.RunActionsAsync(new EaseBounceOut(new ScaleTo(duration: 1f, scale: 1)));
+			await boxNode.RunActionsAsync(new RepeatForever(
+				new RotateBy(duration: 1, deltaAngleX: 90, deltaAngleY: 0, deltaAngleZ: 0)));
+		}
 
         public void InitGUI()
         {

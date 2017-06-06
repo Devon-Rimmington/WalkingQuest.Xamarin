@@ -11,13 +11,13 @@
         <action android:name="com.WalkingQuest.Services.StepService" />
       </intent-filter>
     </service>
-    <activity android:label="MyClassToLaunch" android:name="md53c8397d2c5f6a44529f666d8ce1d96e3.SplashScreen" />
-    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="WalkingQuest.Droid" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name="md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity">
+    <activity android:label="MyClassToLaunch" android:name="md53c8397d2c5f6a44529f666d8ce1d96e3.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="WalkingQuest.Droid" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name="md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity" />
     <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
     <activity android:label="Web Authenticator" android:name="md53c585be971e02235139fd1aef11fc0c1.FormAuthenticatorActivity" />
     <activity android:label="Web Authenticator" android:name="md53c585be971e02235139fd1aef11fc0c1.WebAuthenticatorActivity" />
