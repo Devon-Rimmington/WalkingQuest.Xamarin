@@ -18,6 +18,10 @@ WalkingQuest.Droid.Activities.MainActivity, WalkingQuest.Droid;md53c8397d2c5f6a4
 WalkingQuest.Droid.Activities.MainActivity, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity
 WalkingQuest.Droid.Activities.MainActivity;md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity
 walkingquest.droid.activities.MainActivity;md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity
+Urho.Droid.UrhoSurfacePlaceholder, Urho;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder, Urho, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+Urho.Droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
+urho.droid.UrhoSurfacePlaceholder;md51d192b6e055cfc2544809172a2f4fef6.UrhoSurfacePlaceholder
 Android.Support.CustomTabs.CustomTabsClient/CustomTabsCallbackImpl, Xamarin.Android.Support.CustomTabs;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl
 Android.Support.CustomTabs.CustomTabsClient+CustomTabsCallbackImpl, Xamarin.Android.Support.CustomTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl
 Android.Support.CustomTabs.CustomTabsClient.CustomTabsCallbackImpl;android.support.customtabs.CustomTabsClient_CustomTabsCallbackImpl
