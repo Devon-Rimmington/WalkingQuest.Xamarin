@@ -25,11 +25,11 @@ public class ServiceConnection
 			mono.android.TypeManager.Activate ("WalkingQuest.Droid.ServiceConnection, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
-	public ServiceConnection (md5b47d4963dd2b5cf2efd3b29d74a9fefa.MainActivity p0) throws java.lang.Throwable
+	public ServiceConnection (md53c8397d2c5f6a44529f666d8ce1d96e3.MainActivity p0) throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == ServiceConnection.class)
-			mono.android.TypeManager.Activate ("WalkingQuest.Droid.ServiceConnection, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "WalkingQuest.Droid.MainActivity, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("WalkingQuest.Droid.ServiceConnection, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "WalkingQuest.Droid.Activities.MainActivity, WalkingQuest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", this, new java.lang.Object[] { p0 });
 	}
 
 

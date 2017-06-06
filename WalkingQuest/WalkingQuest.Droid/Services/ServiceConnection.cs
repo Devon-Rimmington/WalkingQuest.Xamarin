@@ -5,6 +5,7 @@ using System;
 using Android.Content;
 using Android.OS;
 using System.ComponentModel;
+using WalkingQuest.Droid.Activities;
 
 namespace WalkingQuest.Droid {
 
